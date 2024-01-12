@@ -15,5 +15,6 @@ This command will create an entry in your local .git/config file.
 Also you can enable and disable your gitleaks for repo if run:
 
 $ git config --local gitleaks.enable true
+
 $ git config --local gitleaks.enable false
 
